@@ -1,6 +1,8 @@
 Arduino Library for Sandbox Electronics SC18IS602 I2C to SPI Bridge Module [MOD-000021]
 =======================================================================================
 
+This module is available at http://sandboxelectronics.com/?product=sc18is602-i2c-to-spi-bridge-module
+
 Installation Instruction (For Arduino IDE version 1.0.5 and above):
 
 1. Download the library as an Arduino IDE compatible zip file at https://github.com/SandboxElectronics/SPI_Bridge/blob/master/SPI_Bridge.zip?raw=true. (Do not unzip it. leave it as is)
